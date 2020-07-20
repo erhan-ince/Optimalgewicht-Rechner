@@ -8,7 +8,6 @@
 
 let deineGroesse = document.getElementById('deineGroesse');
 let deinAlter = document.getElementById('deinAlter');
-let deinGewicht = document.getElementById('deinGewicht');
 let weiblich = document.getElementById('breite');
 let maennlich = document.getElementById('schmale');
 let result = document.getElementById('result');
